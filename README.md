@@ -1,2 +1,2 @@
-# ansirust
+# AnsiRust
 Ansible In Rust
